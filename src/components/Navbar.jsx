@@ -1,5 +1,3 @@
-// import {Link} from 'react-router-dom';
-import { Link } from 'react-router-dom';
 import './navbar.css';
 
 const Navbar = () => {
@@ -21,7 +19,8 @@ const Navbar = () => {
         <a href={"/#home"}>Home</a>
         <a href={"/#card-main-container"}>Services</a>
         <a href={"tel:+917378753636"}>Contact Us</a>
-        <a          href="whatsapp://send?text=Hii"
+        <a
+          href="whatsapp://+917378753636?text=Hii"
           data-action="share/whatsapp/share"
         >
           Whatsapp
