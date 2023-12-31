@@ -1,7 +1,7 @@
 import './footer2.css';
 const Footer2 = () => {
   return (
-    <div className="footer-main-container" id='footer'>
+    <div className="footer-main-container" id="footer">
       <div className="footer-primary-container">
         <div className="footer-content">
           <div>
@@ -23,7 +23,7 @@ const Footer2 = () => {
         <div className="footer-copyright">
           <p>&copy; All Rights Reserverd Prakash Indore </p>
           <div>
-           <a href="tel:+917378753636">Phone</a> 
+            <a href="tel:+917378753636">Phone :- +917378753636</a>
           </div>
         </div>
       </div>
