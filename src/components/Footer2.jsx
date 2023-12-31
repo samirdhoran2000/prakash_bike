@@ -1,7 +1,9 @@
 import './footer2.css';
 const Footer2 = () => {
   return (
-    <div className="footer-main-container" id="footer">
+    <div className="footer-main-container" id="footer" style={{
+      fontSize:'20px',
+    }}>
       <div className="footer-primary-container">
         <div className="footer-content">
           <div>
