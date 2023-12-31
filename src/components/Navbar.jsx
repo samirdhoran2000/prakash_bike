@@ -19,7 +19,7 @@ const Navbar = () => {
         <a href={"/#home"}>Home</a>
         <a href={"/#card-main-container"}>Services</a>
         <a href={"tel:+917378753636"}>Contact Us</a>
-        <a href="whatsapp:contact=+917378753636@s.whatsapp.com&message= like to chat with you">
+        <a href="https://wa.me/917378753636?text=I%20would%20like%20to%20chat%20with%20you">
           Whatsapp
         </a>
         <a href={"#footer"}> About Us</a>
