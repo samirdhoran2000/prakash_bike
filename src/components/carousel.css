@@ -1,0 +1,19 @@
+/* .swiper{
+    width: 600px;
+    height: 300px;
+} */
+
+.img-container{
+height: 600px;
+}
+@media screen and (max-width: 769px) {
+.img-container{
+height: fit-content;
+
+}
+
+/* .carousel-main-container{
+width: 100vw;
+} */
+
+}
