@@ -7,7 +7,8 @@ const SingleCard = ({ bikeId, imgSrc,bikeName, category, ammount, desc}) => {
 
         <div className="basic-container">
           <img className="img-card"
-            src={imgSrc}
+        src={imgSrc}
+        loading="lazy"
            
         alt={`Image of ${bikeName}`} style={{
               borderRadius:'15px'
