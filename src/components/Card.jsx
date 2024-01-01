@@ -115,7 +115,7 @@ const Card = () => {
       <div className="category-main-container">
         <div
           style={{
-            background: "#fffbf3",
+            background: "rgb(164 173 255)",
             padding: "10px",
             width: "600px",
             display: "flex",
