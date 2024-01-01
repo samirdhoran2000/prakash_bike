@@ -21,7 +21,7 @@ const BikeData = [
   },
   {
     bikeId: 7,
-    imgSrc: "/Activa_Blue.png",
+    imgSrc: "/Activa.png",
     bikeName: "Honda Activa 125",
     category: "scooter",
     ammount: 499,
