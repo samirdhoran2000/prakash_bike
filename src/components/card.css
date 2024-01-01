@@ -18,7 +18,7 @@
 }
 .category-btn {
   font-size: 16px;
-  background-color: antiquewhite;
+  background-color: rgb(164 173 255);
   color: brown;
   padding: 5px 18px;
   border-radius: 7px;
@@ -41,7 +41,7 @@ justify-content: center;
 }
 
 .basic-container{
-    background-color: rgb(164 173 255);
+    background-color: azure;
     padding: 5px;
     max-width: 400px;
     height: fit-content;
