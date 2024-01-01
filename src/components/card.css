@@ -41,7 +41,7 @@ justify-content: center;
 }
 
 .basic-container{
-    background-color: azure;
+    background-color: rgb(164 173 255);
     padding: 5px;
     max-width: 400px;
     height: fit-content;
