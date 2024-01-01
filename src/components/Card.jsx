@@ -12,20 +12,20 @@ const BikeData = [
     desc: "Experience the legendary charm of the Royal Enfield Classic 350 as you ride into the essence of timeless elegance and unmatched power on your rental journey.",
   },
   {
-    bikeId: 2,
-    imgSrc: "/TVS_Rider.webp",
-    bikeName: "TVS Rider ",
-    category: "bike",
-    ammount: 599,
-    desc: "Unleash the rider in you with TVS - where every journey is a symphony of freedom, power, and unforgettable experiences.",
-  },
-  {
     bikeId: 7,
     imgSrc: "/Activa.png",
     bikeName: "Honda Activa 125",
     category: "scooter",
     ammount: 499,
     desc: "Effortless elegance meets seamless performance - experience the city in style with our Activas for rent.",
+  },
+  {
+    bikeId: 2,
+    imgSrc: "/TVS_Rider.webp",
+    bikeName: "TVS Rider ",
+    category: "bike",
+    ammount: 599,
+    desc: "Unleash the rider in you with TVS - where every journey is a symphony of freedom, power, and unforgettable experiences.",
   },
   {
     bikeId: 8,
@@ -37,7 +37,7 @@ const BikeData = [
   },
   {
     bikeId: 3,
-    imgSrc: "/honda_shine.webp",
+    imgSrc: "/Honda_Shine.png",
     bikeName: "Honda Shine",
     category: "bike",
     ammount: 499,
@@ -45,7 +45,7 @@ const BikeData = [
   },
   {
     bikeId: 4,
-    imgSrc: "/honda_unicorn.webp",
+    imgSrc: "/Honda_Unicorn.png",
     bikeName: "Honda Unicorn",
     category: "bike",
     ammount: 599,
@@ -77,7 +77,7 @@ const BikeData = [
   },
   {
     bikeId: 10,
-    imgSrc: "/Access-125-Ride.png",
+    imgSrc: "/Suzuki_Access_125.png",
     bikeName: "Suzuki Access 125",
     category: "scooter",
     ammount: 399,
