@@ -111,7 +111,7 @@ const Card = () => {
 
   const category = ["all", "bike", "scooter"];
   return (
-    <div className="card-main-container" id="card-main-container">
+    <div className="card-main-container" id="services">
       <div className="category-main-container">
         <div
           style={{
