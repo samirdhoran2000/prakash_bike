@@ -1,22 +1,26 @@
 import './App.css'
+import {useEffect} from 'react'
 import Navbar from './components/Navbar'
-// import HeroImg from './components/HeroImg'
-import Footer2 from './components/Footer2'
+import Footer from './components/Footer'
 import Image from './components/Image'
-import Card from './components/Card'
+import Card from './components/Card';
+import aos from "aos";
+import "aos/dist/aos.css";
 
 function App() {
- 
+  useEffect(() => {
+    aos.init({
+      offset:100,
+      duration:500
+    });
+ },[])
 
   return (
     <>
       <Navbar />
       <Image />
-
-      {/* <HeroImg /> */}
-
       <Card />
-      <Footer2 />
+      <Footer />
     </>
   );
 }

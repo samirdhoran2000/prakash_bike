@@ -1,5 +1,5 @@
-import "./footer2.css";
-const Footer2 = () => {
+import "./footer.css";
+const Footer = () => {
   return (
     <div
       className="footer-main-container"
@@ -22,7 +22,9 @@ const Footer2 = () => {
           <div className="footer-content-child2" style={{
             color: "white",
             fontSize: '24px',
-            textDecoration:"underline"
+            textDecoration: "underline",
+            display: "flex",
+            alignItems:'end'
           }}>
             <p style={{
               lineHeight: "50px",
@@ -68,4 +70,4 @@ const Footer2 = () => {
   );
 };
 
-export default Footer2;
+export default Footer;

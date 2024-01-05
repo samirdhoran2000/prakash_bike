@@ -1,7 +1,4 @@
-// import Image from "next/image";
-
 import "./card.css";
-
 const SingleCard = ({
   bikeId,
   imgSrc,
@@ -11,9 +8,12 @@ const SingleCard = ({
   discountedAmmount,
   desc,
 }) => {
+  
   return (
     <div
       className="basic-container"
+      data-aos="fade-up"
+      data-aos-anchor-placement="center-center"
       style={{
         background:
           category === "bike"
