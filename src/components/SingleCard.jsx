@@ -65,7 +65,7 @@ const SingleCard = ({
 
         <button>
           <a
-            href={`https://wa.me/917378753636?text=Hello%20Gurukrupa%20Sales%20and%20Services,%20I'm%20interested%20in%20renting%20a%20bike.%20Can%20you%20please%20provide%20details%20on%20availability%20,rates,%20and%20any%20necessary%20information?%20about%20${bikeName}%20Thank%20you!`}
+            href={`https://wa.me/917378753636?text=Hello%20Gurukrupa%20Sales%20and%20Services,%20I'd%20like%20to%20inquire%20about%20the%20availability%20and%20rates%20for%20renting%20the%20${bikeName}.%20Thank%20you!`}
             style={{
               textDecoration: "none",
               color: "white",
