@@ -25,7 +25,10 @@ const Footer2 = () => {
             textDecoration:"underline"
           }}>
             <p style={{
-              lineHeight:"50px"
+              lineHeight: "50px",
+              backgroundColor: "black",
+              borderRadius: '13px',
+              padding:"5px 10px"
             }}>
               Gurukrupa Sales and Services, Hinjawadi Lakshmi Chowk Road, Behind
               MRF Showroom, near Mukai Food Court, Mukai Nagar,
@@ -57,7 +60,7 @@ const Footer2 = () => {
           <div>
             <a href="tel:+917378753636" style={{
               color:"orange"
-            }}>Phone :- +91-7378753636</a>
+            }}>Phone :- +91 7378753636</a>
           </div>
         </div>
       </div>
