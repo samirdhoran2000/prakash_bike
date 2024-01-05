@@ -23,7 +23,7 @@ const Footer2 = () => {
           </div>
         </div>
         <div className="footer-copyright">
-          <p>&copy; All Rights Reserverd Prakash Indore </p>
+          <p>&copy; All Rights Reserverd Gurukrupa Sales and Services </p>
           <div>
             <a href="tel:+917378753636">Phone :- +917378753636</a>
           </div>

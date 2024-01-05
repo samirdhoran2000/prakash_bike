@@ -8,7 +8,8 @@ const BikeData = [
     imgSrc: "/Royal_Enfield_Classic_350.png",
     bikeName: "Royal Enfield Classic 350",
     category: "bike",
-    ammount: 999,
+    ammount: 1499,
+    discountedAmmount:1199,
     desc: "Experience the legendary charm of the Royal Enfield Classic 350 as you ride into the essence of timeless elegance and unmatched power on your rental journey.",
   },
   {
@@ -24,7 +25,7 @@ const BikeData = [
     imgSrc: "/TVS_Rider.webp",
     bikeName: "TVS Rider ",
     category: "bike",
-    ammount: 599,
+    ammount: 799,
     desc: "Unleash the rider in you with TVS - where every journey is a symphony of freedom, power, and unforgettable experiences.",
   },
   {
