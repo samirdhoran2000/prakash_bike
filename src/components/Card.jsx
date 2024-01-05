@@ -114,7 +114,7 @@ const BikeData = [
   {
     bikeId: 13,
     imgSrc: "/Bajaj_Pulsar_150.png",
-    bikeName: "Bajaj Pulsur 150",
+    bikeName: "Bajaj Pulsar 150",
     category: "bike",
     ammount: 599,
     monthlyRate: 5999,
