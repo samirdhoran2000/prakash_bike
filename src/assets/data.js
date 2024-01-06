@@ -10,7 +10,7 @@ export const BikeData = [
   },
   {
     bikeId: 2,
-    imgSrc: "/Activa.png",
+    imgSrc: "/Honda_Activa.png",
     bikeName: "Honda Activa 125",
     category: "scooter",
     ammount: 499,
@@ -73,7 +73,7 @@ export const BikeData = [
   },
   {
     bikeId: 9,
-    imgSrc: "/yamaha_fz.webp",
+    imgSrc: "/Yamaha_FZ.webp",
     bikeName: "Yamaha FZ",
     category: "bike",
     ammount: 699,
