@@ -19,26 +19,30 @@ const Footer = () => {
               loading="lazy"
             ></iframe>
           </div>
-          <div className="footer-content-child2" style={{
-            color: "white",
-            fontSize: '24px',
-            textDecoration: "underline",
-            display: "flex",
-            alignItems:'end'
-          }}>
-            <p style={{
-              lineHeight: "50px",
-              backgroundColor: "black",
-              borderRadius: '13px',
-              padding:"5px 10px"
-            }}>
-              Gurukrupa Sales and Services, Hinjawadi Lakshmi Chowk Road, Behind
+          <div
+            className="footer-content-child2"
+            style={{
+              color: "white",
+              fontSize: "24px",
+              textDecoration: "underline",
+              display: "flex",
+              alignItems: "end",
+            }}
+          >
+            <p
+              style={{
+                lineHeight: "50px",
+                backgroundColor: "black",
+                borderRadius: "13px",
+                padding: "5px 10px",
+              }}
+            >
+              Gurukrupa Sales and Services, Lakshmi Chowk Road Hinjawadi, Behind
               MRF Showroom, Near Mukai Food Court, Mukai Nagar,
               Hinjawadi-411057, Pune, Maharashtra
             </p>
           </div>
-          <div className="footer-content-child3" 
-            >
+          <div className="footer-content-child3">
             <p>
               Life&apos;s Beautiful Ride: Make every moment count on two wheels.
               Rent a bike and transform your travels into a canvas of
@@ -58,11 +62,27 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer-copyright">
-          <p>&copy; All Rights Reserverd Gurukrupa Sales and Services </p>
+          <p>
+            &copy;All Rights Reserverd{" "}
+            <span
+              style={{
+                textDecoration: "underline",
+                color: "rgb(203, 203, 203)",
+              }}
+            >
+              Gurukrupa Sales
+              and Services
+            </span>
+          </p>
           <div>
-            <a href="tel:+917378753636" style={{
-              color:"orange"
-            }}>Phone :- +91 7378753636</a>
+            <a
+              href="tel:+917378753636"
+              style={{
+                color: "orange",
+              }}
+            >
+              Phone :- +91 7378753636
+            </a>
           </div>
         </div>
       </div>

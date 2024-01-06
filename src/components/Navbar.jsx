@@ -16,7 +16,9 @@ const Navbar = () => {
         }}
       />
       <div className="nav-header">
-        <div className="nav-title">Rental Bike</div>
+        <div className="nav-title"><img src="/Gurukrupa.png" alt="Gurukrupa Sale and Services logo" width={100} height={70} style={{
+          objectFit:"fill"
+        }}/></div>
       </div>
       <div className="nav-btn">
         <label htmlFor="nav-check">

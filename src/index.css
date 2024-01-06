@@ -11,10 +11,10 @@ html{
 body{
   background-color: aliceblue;
     font-family: 'segoe ui';
-  font-family: 'Roboto', sans-serif;
-font-family: 'Source Serif 4', serif;
-font-family: 'Syne', sans-serif;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Source Serif 4', serif;
+    font-family: 'Syne', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 button{
   border: none;
