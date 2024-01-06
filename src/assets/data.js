@@ -72,6 +72,7 @@ export const BikeData = [
     desc: "Elevate your ride, seize the city with Suzuki Access 125 – where style meets performance in every rental journey.",
   },
   {
+    
     bikeId: 9,
     imgSrc: "/Yamaha_FZ.webp",
     bikeName: "Yamaha FZ",
