@@ -10,7 +10,7 @@ import "aos/dist/aos.css";
 function App() {
   useEffect(() => {
     aos.init({
-      offset:100,
+      // offset:200,
       duration: 500,
       once: true
     });

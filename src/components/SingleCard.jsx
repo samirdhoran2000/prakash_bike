@@ -12,8 +12,8 @@ const SingleCard = ({
   return (
     <div
       className="basic-container"
-      data-aos="fade-up"
-      data-aos-anchor-placement="center-center"
+      data-aos="zoom-in-up"
+     
       style={{
         background:
           category === "bike"

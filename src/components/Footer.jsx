@@ -33,7 +33,7 @@ const Footer = () => {
               padding:"5px 10px"
             }}>
               Gurukrupa Sales and Services, Hinjawadi Lakshmi Chowk Road, Behind
-              MRF Showroom, near Mukai Food Court, Mukai Nagar,
+              MRF Showroom, Near Mukai Food Court, Mukai Nagar,
               Hinjawadi-411057, Pune, Maharashtra
             </p>
           </div>
