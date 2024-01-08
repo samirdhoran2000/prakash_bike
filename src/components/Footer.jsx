@@ -29,7 +29,7 @@ const Footer = () => {
               alignItems: "end",
             }}
           >
-            <p
+            <address
               style={{
                 lineHeight: "50px",
                 backgroundColor: "black",
@@ -39,8 +39,8 @@ const Footer = () => {
             >
               Gurukrupa Sales and Services, Lakshmi Chowk Road Hinjawadi, Behind
               MRF Showroom, Near Mukai Food Court, Mukai Nagar,
-              Hinjawadi-411057, Pune, Maharashtra
-            </p>
+              Hinjawadi-411057, Pune, Maharashtra, India
+            </address>
           </div>
           <div className="footer-content-child3">
             <p>

@@ -7,7 +7,7 @@ const Navbar = () => {
     setIsChecked(!isChecked);
  };
   return (
-    <div className="nav">
+    <nav className="nav">
       <input
         type="checkbox"
         id="nav-check"
@@ -62,7 +62,7 @@ const Navbar = () => {
           About Us
         </a>
       </div>
-    </div>
+    </nav>
   );
 };
 
