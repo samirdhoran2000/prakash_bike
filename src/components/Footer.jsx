@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="footer-content">
           <div className="footer-content-child1">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3781.4994077907804!2d73.73166607465392!3d18.596594066848674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDM1JzQ3LjciTiA3M8KwNDQnMDMuMyJF!5e0!3m2!1sen!2sin!4v1704433241135!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3584.9210663529684!2d73.7354821376651!3d18.598310616009293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bb1058e0556f%3A0xb0a9356c5227a980!2sGuru%20Krupa%20Bike%20Rentals!5e0!3m2!1sen!2sin!4v1707385263850!5m2!1sen!2sin"
               width="300"
               height="300"
               style={{ border: "0" }}
